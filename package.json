@@ -1,0 +1,35 @@
+{
+  "name": "dynamo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.83",
+    "@types/aws-sdk": "2.7.0",
+    "@types/jest": "27.0.1",
+    "@types/lodash.sortby": "4.7.6",
+    "@types/node": "16.9.1",
+    "@types/uuid": "8.3.1",
+    "aws-sdk": "2.987.0",
+    "jest": "27.1.1",
+    "ts-jest": "27.0.5",
+    "ts-node": "10.2.1",
+    "typescript": "4.4.3"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "7.14.1",
+    "@mancho.devs/validations": "1.0.0",
+    "camelcase": "6.2.0",
+    "dynamodb-stream-elasticsearch": "3.2.2",
+    "libphonenumber-js": "1.9.32",
+    "lodash": "4.17.21",
+    "moment": "2.29.1",
+    "uuid": "8.3.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
